@@ -1,8 +1,8 @@
 class Sig < Formula
   desc "Run parallel AI coding agents on one git repo and safely auto-merge their work"
   homepage "https://github.com/surya-koritala/sigbound"
-  url "https://github.com/surya-koritala/sigbound/archive/refs/tags/v1.1.0.tar.gz"
-  sha256 "d2d6dd74d0ed6c17d7ec72a3fd1ea19ab704886e968f9802674d60215cad7b60"
+  url "https://github.com/surya-koritala/sigbound/archive/refs/tags/v2.0.0.tar.gz"
+  sha256 "40c73ddc341bff06140e70801db11b029bbb87c3b436d0d2e4cd8a265fb26d06"
   license "Apache-2.0"
   head "https://github.com/surya-koritala/sigbound.git", branch: "main"
 
